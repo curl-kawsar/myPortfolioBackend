@@ -1,5 +1,5 @@
-Django==5.0.4
-djangorestframework==3.15.2
+Django
+djangorestframework
 asgiref
 python-dateutil
 six
