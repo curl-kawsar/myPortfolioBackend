@@ -1,2 +1,7 @@
 Django==5.0.4
 djangorestframework==3.15.2
+asgiref
+python-dateutil
+six
+tzdata
+sqlparse
